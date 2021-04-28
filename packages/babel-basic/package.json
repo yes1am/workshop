@@ -1,0 +1,25 @@
+{
+  "name": "babel-basic",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "songjp <songjp1996@gmail.com>",
+  "homepage": "https://github.com/yes1am/workshop#readme",
+  "license": "ISC",
+  "main": "lib/babel-basic.js",
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "build": "npx babel src/index.js --out-file dist/dist.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yes1am/workshop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yes1am/workshop/issues"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.13.16",
+    "@babel/core": "^7.13.16",
+    "@babel/types": "^7.13.17"
+  }
+}
