@@ -1,0 +1,12 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^4.0.0",
+    "create-react-app": "^4.0.3",
+    "bootstrap" :"lerna bootstrap"
+  },
+  "scripts": {
+    "prepare-react-typescript": "create-react-app packages/react-typescript --template typescript"
+  }
+}
