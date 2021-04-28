@@ -8,3 +8,8 @@
 
 1. 安装根依赖: `yarn`
 2. 给所有项目安装依赖: `yarn bootstrap`
+
+## 2. 目录
+
+1. [React + Typescript](/packages/react-typescript)
+2. [Webpack Basic](/packages/webpack-basic)
