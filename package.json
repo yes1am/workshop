@@ -3,10 +3,10 @@
   "private": true,
   "devDependencies": {
     "lerna": "^4.0.0",
-    "create-react-app": "^4.0.3",
-    "bootstrap" :"lerna bootstrap"
+    "create-react-app": "^4.0.3"
   },
   "scripts": {
-    "prepare-react-typescript": "create-react-app packages/react-typescript --template typescript"
+    "prepare-react-typescript": "create-react-app packages/react-typescript --template typescript",
+    "bootstrap" :"lerna bootstrap"
   }
 }

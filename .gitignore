@@ -37,3 +37,4 @@ jspm_packages
 .yarn-integrity
 # 自定义部分
 .vscode
+dist

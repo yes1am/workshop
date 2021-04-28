@@ -1,0 +1,27 @@
+{
+  "name": "webpack-basic",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "songjp <songjp1996@gmail.com>",
+  "homepage": "https://github.com/yes1am/workshop#readme",
+  "license": "ISC",
+  "main": "lib/webpack.js",
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yes1am/workshop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yes1am/workshop/issues"
+  },
+  "devDependencies": {
+    "webpack": "^5.36.0",
+    "webpack-cli": "^4.6.0"
+  },
+  "dependencies": {
+    "the-answer": "^1.0.0"
+  }
+}
