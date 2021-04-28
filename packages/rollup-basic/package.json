@@ -1,0 +1,29 @@
+{
+  "name": "rollup-basic",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "songjp <songjp1996@gmail.com>",
+  "homepage": "https://github.com/yes1am/workshop#readme",
+  "license": "ISC",
+  "main": "lib/rollup-basic.js",
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "build": "rollup --config rollup.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yes1am/workshop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yes1am/workshop/issues"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.13.15",
+    "rollup": "^2.45.2",
+    "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-json": "^4.0.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "the-answer": "^1.0.0"
+  }
+}
