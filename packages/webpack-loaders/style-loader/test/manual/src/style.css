@@ -1,0 +1,16 @@
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+.blue {
+  color: blue;
+}
+
+.background {
+  height: 1200px;
+  background: url('./logo.png') center no-repeat;
+}

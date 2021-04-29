@@ -7,6 +7,6 @@
   },
   "scripts": {
     "prepare-react-typescript": "create-react-app packages/react-typescript --template typescript",
-    "bootstrap" :"lerna bootstrap"
+    "bootstrap": "lerna bootstrap"
   }
 }

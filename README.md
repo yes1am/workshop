@@ -11,8 +11,9 @@
 
 ## 2. 目录
 
-1. [React + Typescript](/packages/react-typescript) React TypeScript 基础环境
+1. [React + Typescript](/packages/react-typescript) React + TypeScript 基础环境
 2. [Webpack Basic](/packages/webpack-basic): Webpack 基础环境
 3. [Gulp Basic](/packages/gulp-basic): Gulp 基础环境
 4. [Rollup Basic](/packages/rollup-basic): Rollup 基础环境
 5. [Babel Basic](/packages/babel-basic): Babel 基础环境
+6. [Webpack Loaders](/packages/webpack-loaders): Webpack Loader 的调试环境
