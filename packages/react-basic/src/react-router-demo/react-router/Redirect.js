@@ -1,5 +1,4 @@
 import React from "react";
-import PropTypes from "prop-types";
 import { createLocation, locationsAreEqual } from "../history";
 import invariant from "tiny-invariant";
 

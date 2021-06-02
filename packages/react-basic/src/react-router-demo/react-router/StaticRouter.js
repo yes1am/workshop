@@ -1,8 +1,6 @@
 import React from "react";
-import PropTypes from "prop-types";
 import { createLocation, createPath } from "../history";
 import invariant from "tiny-invariant";
-import warning from "tiny-warning";
 
 import Router from "./Router.js";
 

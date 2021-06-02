@@ -1,6 +1,4 @@
 import React from "react";
-import PropTypes from "prop-types";
-import warning from "tiny-warning";
 
 import HistoryContext from "./HistoryContext.js";
 import RouterContext from "./RouterContext.js";

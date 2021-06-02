@@ -1,5 +1,4 @@
 import React from "react";
-import invariant from "tiny-invariant";
 
 import RouterContext from "./RouterContext.js";
 import HistoryContext from "./HistoryContext.js";

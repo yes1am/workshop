@@ -1,7 +1,5 @@
 import React from "react";
-import PropTypes from "prop-types";
 import invariant from "tiny-invariant";
-import warning from "tiny-warning";
 
 import RouterContext from "./RouterContext.js";
 import matchPath from "./matchPath.js";

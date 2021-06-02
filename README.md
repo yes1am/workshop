@@ -19,4 +19,4 @@
 6. [Webpack Loaders](/packages/webpack-loaders): Webpack Loader 的调试环境
 7. [React Native Basic](/packages/RNBasic): React Native 基础环境
 8. [Koa Basic](/packages/koa-basic): Koa 基础环境
-9. [React Router](/packages/react-router-basic): React Router 基础环境
+9. [React Basic](/packages/react-basic): React 基础环境, 用于学习调试 React 生态相关的库

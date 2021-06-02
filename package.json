@@ -7,7 +7,7 @@
   },
   "scripts": {
     "prepare-react-typescript": "create-react-app packages/react-typescript --template typescript",
-    "prepare-react-router": "create-react-app packages/react-router-basic",
+    "prepare-react-basic": "create-react-app packages/react-basic",
     "bootstrap": "lerna bootstrap"
   }
 }

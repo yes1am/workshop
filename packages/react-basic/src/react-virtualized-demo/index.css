@@ -1,0 +1,38 @@
+.react-virtualized-demo .list {
+  width: 100%;
+  border: 1px solid #DDD;
+  margin-top: 15px;
+}
+.react-virtualized-demo .row {
+  box-sizing: border-box;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0 25px;
+  background-color: #fff;
+  border-bottom: 1px solid #e0e0e0;
+}
+.react-virtualized-demo .letter {
+  display: inline-block;
+  height: 40px;
+  width: 40px;
+  line-height: 40px;
+  text-align: center;
+  border-radius: 40px;
+  color: white;
+  font-size: 1.5em;
+  margin-right: 25px;
+}
+.react-virtualized-demo .name {
+  font-weight: bold;
+  margin-bottom: 2px;
+}
+.react-virtualized-demo .index {
+  color: #37474f;
+}
+
+.react-virtualized-demo .img {
+  width: 20px;
+  height: 20px;
+}

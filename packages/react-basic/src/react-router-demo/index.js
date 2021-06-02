@@ -1,11 +1,8 @@
-import logo from './logo.svg';
-import React, { useEffect }  from 'react'
-
-import './App.css';
+import React from 'react'
 
 import {
-  // BrowserRouter as Router,
-  HashRouter as Router,
+  BrowserRouter as Router,
+  // HashRouter as Router,
   Switch,
   Route,
   Link
@@ -58,13 +55,4 @@ function Users() {
   return <h2>Users</h2>;
 }
 
-
-function App() {
-  return (
-    <div className="App">
-      <Demo />
-    </div>
-  );
-}
-
-export default App;
+export default Demo
