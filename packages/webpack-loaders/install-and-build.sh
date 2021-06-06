@@ -12,3 +12,5 @@ yarn build
 cd ../style-loader
 yarn install
 yarn build
+cd ../resolve-url-loader
+yarn install

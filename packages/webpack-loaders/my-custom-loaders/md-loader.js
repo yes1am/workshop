@@ -11,6 +11,6 @@ ${match}
 </details>
 `);
 });
-console.log("#### md loader result ####", source)
+// console.log("#### md loader result ####", source)
 return 'module.exports = ' + JSON.stringify(source);
 }
