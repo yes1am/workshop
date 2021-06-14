@@ -39,3 +39,10 @@ node server.js
 
 如果给图片设置强缓存，那么可以减少真正请求后端的次数，并且响应结果能更快回来。(目前看来此方案优于将图片转为 base64 进行缓存的方法，具体效果待真实环境进行测试)
 
+## 3. React Redux
+
+*梳理 Redux 与 React-Redux 的一个关系，以及了解 React-Redux 的实现原理*
+
+目录: [React-Redux-Demo](./src/react-redux-demo)
+
+更多分析可参考: [React Router 源码简单分析](https://yes-1-am.gitbook.io/blog/react-kai-fa-shi-jian/reactredux-yuan-ma-jian-dan-fen-xi)

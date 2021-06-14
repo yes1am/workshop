@@ -11,9 +11,11 @@
     "invariant": "^2.2.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-redux": "^6.0.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
     "react-virtualized": "^9.22.3",
+    "redux": "^4.1.0",
     "warning": "^4.0.3",
     "web-vitals": "^1.0.1"
   },
