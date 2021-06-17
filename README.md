@@ -8,6 +8,7 @@
 
 1. 安装根依赖: `yarn`
 2. 给所有项目安装依赖: `yarn bootstrap`
+3. `cd` 进对应的项目，查看具体的 `README.md` 文件将项目跑起来
 
 ## 2. 目录
 
@@ -20,3 +21,10 @@
 7. [React Native Basic](/packages/RNBasic): React Native 基础环境
 8. [Koa Basic](/packages/koa-basic): Koa 基础环境
 9. [React Basic](/packages/react-basic): React 基础环境, 用于学习调试 React 生态相关的库
+10. [Webpack React Test](/packages/webpack-react-test): 手动配置的 React Webpack 开发环境，测试 Webpack 打包速度等
+
+## 3. 开发
+
+```shell
+lerna create <project-name>  // 创建项目
+```
