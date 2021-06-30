@@ -1,9 +1,19 @@
 const Koa = require('koa');
 const app = new Koa();
 
+// const CSRF = require('./koa-csrf');
+
+const session = require('./koa-generic-session');
+app.keys = ['keys', 'keykeys'];
+app.use(session());
+
 const logger = function () {
   return async function ( ctx, next ) {
-    console.log("请求来了",ctx.request);
+    const session = ctx.session;
+    session.count = session.count || 0;
+    session.count++;
+    console.log("当前 session 中的 count:", session.count);
+    // console.log("请求来了",ctx.request);
     await next()
   }
 }
