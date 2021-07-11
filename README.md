@@ -23,6 +23,7 @@
 9. [React Basic](/packages/react-basic): React 基础环境, 用于学习调试 React 生态相关的库
 10. [Webpack React Test](/packages/webpack-react-test): 手动配置的 React Webpack 开发环境，测试 Webpack 打包速度等
 11. [Vue Basic](/packages/vue-basic): Vue 的基础开发环境
+12. [Vue3 Basic](/packages/vue3-basic): Vue3 的基础开发环境
 
 ## 3. 开发
 
